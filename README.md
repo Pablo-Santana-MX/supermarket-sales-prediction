@@ -7,7 +7,7 @@
 
   <!-- BOTONES INTERACTIVOS -->
   <!-- IMPORTANTE: Reemplaza "TU_URL_AQUI" con el link real de Streamlit cuando lo despliegues en la nube -->
-  <a href="TU_URL_AQUI">
+  <a href="https://dynamic-sales-engine.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-Ver_App_en_Vivo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
@@ -32,10 +32,22 @@ Los resultados del experimento se refutaron y validaron mediante la creación de
 *   **Inferencia Dinámica:** Las predicciones de demanda se recalculan en tiempo real dependiendo de los cortes dimensionales (filtros de sucursal, género, tipo de cliente) que el usuario elija.
 *   **Asignación de Recursos:** El modelo demuestra la capacidad de distribuir el capital de forma exacta, encontrando el máximo global absoluto de rentabilidad proyectada en milisegundos.
 
-## 🚀 4. Reproducibilidad y Ejecución
+ ## 🚀 4. Reproducibilidad y Ejecución
 Para replicar las condiciones de este experimento en un entorno local y ejecutar el código fuente:
 
 1. Clonar este repositorio.
 2. Activar tu entorno virtual y asegurar la instalación de las dependencias exactas:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt   -
+
+## 📬  5. Contacto y Oportunidades Profesionales
+
+**Pablo Alberto Santana Flores**
+*Científico de Datos | Inteligencia de Decisiones | PhD en Ciencias Marinas*
+
+Actualmente abierto a oportunidades laborales y colaboraciones estratégicas (Data Analyst, Data Scientist, Optimización de Operaciones). Apasionado por aportar valor corporativo transformando datos crudos en decisiones automatizadas.
+
+*   💼 **LinkedIn:** [linkedin.com/in/pablo-santana-mx](https://mx.linkedin.com/in/pablo-santana-mx)
+*   🐙 **GitHub:** [github.com/Pablo-Santana-MX](https://github.com/Pablo-Santana-MX)
+*   ✉️ **Email:** [pablo.santana@outlook.com](mailto:pablo.santana@outlook.com)
+
